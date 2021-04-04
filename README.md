@@ -18,6 +18,7 @@
 Automatic environmental sound classification is a growing area of research with numerous real world applications. Whilst there is a large body of research in related audio fields such as speech and music, work on the classification of environmental sounds is comparatively scarce.
 
 There is a plethora of real world applications for this research, such as:
+
 • Content-based multimedia indexing and retrieval
 • Assisting deaf individuals in their daily activities
 • Smart home use cases such as 360-degree safety and security capabilities
@@ -39,6 +40,7 @@ There is a plethora of real world applications for this research, such as:
 Dataset URL: https://urbansounddataset.weebly.com/urbansound8k.html
 
 For this we will use a dataset called Urbansound8K. The dataset contains 8732 sound excerpts (<=4s) of urban sounds from 10 classes, which are:
+
 • Air Conditioner
 • Car Horn
 • Children Playing
