@@ -31,8 +31,8 @@ There is a plethora of real world applications for this research, such as:
 - Packages: Pandas, Numpy, Seaborn, Matplotlib, Scikit, Keras, Tensorflow, Librosa, Ipython
 - Resources used:
 
-* Medium : https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7
-* Heartbeat : https://heartbeat.fritz.ai/working-with-audio-signals-in-python-6c2bd63b2daf
+  * Medium : https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7
+  * Heartbeat : https://heartbeat.fritz.ai/working-with-audio-signals-in-python-6c2bd63b2daf
 
 ---
 ## Web Scraping
